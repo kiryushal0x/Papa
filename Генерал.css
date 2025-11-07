@@ -1,0 +1,61 @@
+<head>
+
+  <style>
+
+body {
+
+  font-family: 'Helvetica', sans-serif;   
+
+  background-image: url('https://getwallpapers.com/wallpaper/full/6/5/4/206737.jpg')
+
+}
+
+    h1 {
+
+      font-family: 'Arial', sans-serif;
+
+      color: rgb(98,2,2);
+
+      text-align: center;
+
+      font-size: 35px; 
+
+}
+
+    h2 {
+
+      font-family: 'Arial', sans-serif;
+
+      text-align: center;
+
+}
+
+    p {
+
+      font-size: 25px;
+
+}
+
+    header {
+
+      background-color: rgb(119, 136, 153);
+
+      text-align: center;
+
+      color: rgb(220, 220, 220)
+
+}
+
+    footer {
+
+      background-color: rgb(47, 79, 79);
+
+      text-align: center;
+
+      color: rgb(240, 248, 255)
+
+}
+
+  </style>
+
+</head>
